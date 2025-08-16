@@ -8,7 +8,7 @@
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://jackdigesare.github.io/CactusTools/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://jackdigesare.github.io/CactusTools/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://jackdigesare.github.io/CactusTools"/>
+  <SupportUrl DefaultValue="https://jackdigesare.github.io/CactusTools/"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
   </AppDomains>
