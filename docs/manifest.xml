@@ -10,7 +10,7 @@
   <HighResolutionIconUrl DefaultValue="https://jackdigesare.github.io/CactusTools/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://jackdigesare.github.io/CactusTools/"/>
   <AppDomains>
-    <AppDomain>https://jackdigesare.github.io/CactusTools/</AppDomain>
+    <AppDomain>https://jackdigesare.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
